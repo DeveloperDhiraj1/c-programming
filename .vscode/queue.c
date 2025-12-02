@@ -77,6 +77,7 @@ void display()
     {
      printf("%d--->",temp->data);
      temp = temp -> next;
+     
     }
       printf("%d--->NULL\n",temp->data);
    }
